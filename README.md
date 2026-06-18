@@ -2,6 +2,9 @@
 
 Site web immersif pour le Village de Suna (砂隠れの里), portail officiel d'une communauté RP Naruto.
 
+> ⚠️ **Statut : projet non terminé — développement en pause.**
+> Le site n'est pas finalisé : certaines fonctionnalités restent à implémenter (état de chargement Skeleton, backend newsletter, affinage responsive, liens en attente). Le développement est actuellement suspendu.
+
 ## Aperçu
 
 Le site présente Sunagakure comme s'il existait réellement : hiérarchie ninja, divisions spécialisées, lois du village et actualités communautaires. Le design fusionne l'esthétique désertique de Suna avec un web design moderne.
